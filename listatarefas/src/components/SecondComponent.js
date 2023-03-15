@@ -6,11 +6,11 @@ const SecondComponent = () =>  {
 
     return(
         <div>
-            <button OnClick={handleClick}>
+            <button onClick={handleClick}>
                 Clique AQUI!
             </button>
             <hr/>
-            <button OnClick = {() => console.log("CLICK")}>botão</button>
+            <button onClick = {() => console.log("CLICK")}>botão</button>
         </div>
     );
 };
