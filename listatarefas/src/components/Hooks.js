@@ -11,7 +11,7 @@ const Hooks = () => {
     }
 
     function newAge() {
-        setIdade(idade++)
+        setIdade(50)
     }
     return(
         <div>

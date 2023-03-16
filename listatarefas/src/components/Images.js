@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import foto from '../assets/f6.jpg';
 
 const Images = () => {
